@@ -20,7 +20,7 @@ Voir mes répertoires "SAE".
 ## Contact
 
 - **Email :** esmeralda.martin206@gmail.com
-- **LinkedIn :** [Esmeralda sur LinkedIn](www.linkedin.com/in/esmeralda-martin)
+- **LinkedIn :** [Esmeralda sur LinkedIn](https://www.linkedin.com/in/esmeralda-martin/)
 - **GitHub :** [Esmeralda sur GitHub](https://github.com/emeraudeLa)
 
 N'hésitez pas à me contacter si vous avez des questions !
