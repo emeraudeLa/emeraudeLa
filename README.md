@@ -1,5 +1,3 @@
-# Présentation de Emeraude
-
 ## Qui suis-je ?
 
 Bonjour, je m'appelle Esmeralda et je suis étudiante en première année de BUT Informatique à l'IUT de Lannion.
