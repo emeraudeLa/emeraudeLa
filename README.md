@@ -23,6 +23,12 @@ N'hésitez pas à consulter mes répertoires !
 - **Technologies :** C, Doxygen
 - **Lien :** [Voir le projet](https://github.com/emeraudeLa/SAE1.01_Snake)
 
+### Projet 2 : Création d'un site internet
+
+- **Description :** Développement d'un site internet sur les JO de Paris 2024, projet universitaire, projet de groupe.
+- **Technologies :** HTML, CSS
+- **Lien :** [Voir le projet](https://github.com/emeraudeLa/SAE1.05_Web)
+
 
 ## Contact
 
