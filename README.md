@@ -17,7 +17,12 @@ N'hésitez pas à consulter mes répertoires !
 
 ## Projets récents
 
-Voir mes répertoires "SAE".
+### Projet 1 : Création d'un jeu snake en langage C
+
+- **Description :** Développement d'un jeu snake en langage C, projet universitaire.
+- **Technologies :** C, Doxygen
+- **Lien :** [Voir le projet](https://github.com/emeraudeLa/SAE1.01_Snake)
+
 
 ## Contact
 
@@ -25,13 +30,6 @@ Voir mes répertoires "SAE".
 - **LinkedIn :** [Esmeralda sur LinkedIn](https://www.linkedin.com/in/esmeralda-martin/)
 - **GitHub :** [Esmeralda sur GitHub](https://github.com/emeraudeLa)
 
-## Projets
-
-### Projet 1 : Création d'un jeu snake en langage C
-
-- **Description :** Développement d'un jeu snake en langage C, projet universitaire.
-- **Technologies :** C, Doxygen
-- **Lien :** [Voir le projet](https://github.com/emeraudeLa/SAE1.01_Snake)
 
 
 N'hésitez pas à me contacter si vous avez des questions !
