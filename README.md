@@ -12,8 +12,8 @@ N'hésitez pas à consulter mes répertoires !
 
 ## Compétences
 
-- **Langages de programmation :** Python, JavaScript, Java, C, HTML, CSS
-- **Bases de données :** MySQL, PostgreSQL, TutorialD
+- **Langages de programmation :** Python, Java, C, HTML, CSS
+- **Bases de données :** PostgreSQL, TutorialD
 
 ## Projets récents
 
